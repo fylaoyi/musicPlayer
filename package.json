@@ -1,0 +1,19 @@
+{
+  "name": "musicplayer",
+  "version": "1.0.0",
+  "description": "this is a music player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5"
+  ],
+  "author": "fengyu",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.0"
+  }
+}
